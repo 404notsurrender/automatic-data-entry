@@ -46,4 +46,4 @@ while i <= len(sheetRange['A']):
     time.sleep(1)
     i += 1
 
-print('muncul nih bang!')
+print('Muncul nih bang!')
